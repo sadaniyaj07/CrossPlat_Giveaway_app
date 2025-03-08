@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327368906727",
+    "project_id": "indiestinct-e1e6a",
+    "storage_bucket": "indiestinct-e1e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327368906727:android:1660b7bc2478b27bd88f42",
+        "android_client_info": {
+          "package_name": "com.GiveAway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJVOAVq4C2IUe3Dq9NLb8ONEwNdkBykQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

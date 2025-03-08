@@ -1,0 +1,8 @@
+.node_modules/
+ios/pods
+android/.gradle
+android/.idea
+_bundle/config
+__tests__/App-test.tsx
+android/app/build
+node_modules
